@@ -1,5 +1,5 @@
 # Description 
-Mission Summit Treks is a comprehensive web app I developed for a well-known travel agency called "Mission Summit Trekks" in Nepal. This is currently a live web application. This platform allows users to easily explore a wide range of carefully selected travel packages, book trips, and engage with the community through reviews and comments.
+Hello My Name is Ishan Koirala and I'm a web developer. This is currently a live web application. Mission Summit Treks is a comprehensive web app I developed for a well-known travel agency called "Mission Summit Trekks" in Nepal.  This platform allows users to easily explore a wide range of carefully selected travel packages, book trips, and engage with the community through reviews and comments.
 
 Using my frontend development skills, I worked on this application to provide a fun and user-friendly experience. It includes important features like secure booking, embedded YouTube videos, and photo galleries for every destination, plus a lively blog that showcases the breathtaking scenery and rich culture of Nepal.
 
